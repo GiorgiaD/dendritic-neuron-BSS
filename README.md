@@ -1,6 +1,6 @@
 # dendritic-neuron-BSS
 Code to run the experiment 1 of the paper:
-### Learning in Deep Neural Networks Using a Biologically Inspired Optimizer
+### Modeling Repetition-based BSS with Dendritic Neurons
 
 Giorgia Dellaferrera, Toshitake Asabuki, Tomoki Fukai
 
