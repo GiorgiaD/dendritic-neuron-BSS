@@ -4,6 +4,8 @@ Code to run the experiment 1 of the paper:
 
 Giorgia Dellaferrera, Toshitake Asabuki, Tomoki Fukai
 
+https://arxiv.org/abs/2201.06123
+
 
 # Requirements
 We run the experiments with the following:
