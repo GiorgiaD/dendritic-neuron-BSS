@@ -4,7 +4,9 @@ Code to run the experiment 1 of the paper:
 
 Giorgia Dellaferrera, Toshitake Asabuki, Tomoki Fukai
 
-https://arxiv.org/abs/2201.06123
+https://www.frontiersin.org/articles/10.3389/fnins.2022.855753/full
+
+Frontiers in Neuroscience (2022)
 
 
 # Requirements
@@ -34,3 +36,16 @@ Add `--all_comb` to run the experiment in the "all combination" set up.
 Add `--sparse_connectivity` to modify the network from fully connected to sparse connectivity. 
 
 
+# Citation tools
+Please cite our work as:
+
+@ARTICLE{10.3389/fnins.2022.855753,
+AUTHOR={Dellaferrera, Giorgia and Asabuki, Toshitake and Fukai, Tomoki},   
+TITLE={Modeling the Repetition-Based Recovering of Acoustic and Visual Sources With Dendritic Neurons},      
+JOURNAL={Frontiers in Neuroscience},      
+VOLUME={16},     
+YEAR={2022},      
+URL={https://www.frontiersin.org/article/10.3389/fnins.2022.855753},      
+DOI={10.3389/fnins.2022.855753},     
+ISSN={1662-453X},   
+}
